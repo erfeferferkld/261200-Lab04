@@ -11,7 +11,7 @@ public class main {
         System.out.println(student2.getDetails());
         System.out.println(student3.getDetails());
 
-        //Display overall class statistics
+        //Display overall class statistics and summary
         System.out.println(HealthRecord.getClassDetails());
     }
 }

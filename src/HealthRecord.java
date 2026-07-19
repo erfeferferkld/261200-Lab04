@@ -30,6 +30,7 @@ public class HealthRecord {
             tallestHeight = this.height;
         }
 
+        //Update the shortest height
         if (this.height < shortestHeight) {
             shortestHeight = this.height;
         }
